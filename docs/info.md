@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project contains 2-stage opamps designed by majid and it was in shuttle tt08
 
 ## How to test
 
-Explain how to use your project
-
+It consists of 1 circuit with 3 pins 2 input and 1 output (input INN and INP)
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Digilent Analog Discovery 3 can be used for various measurements of opamp circuit. 
